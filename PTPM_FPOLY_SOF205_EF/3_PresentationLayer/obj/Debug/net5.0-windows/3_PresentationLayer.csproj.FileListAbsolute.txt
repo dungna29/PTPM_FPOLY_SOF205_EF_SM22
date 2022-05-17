@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\bin\Debug\net5.0-windows\3_PresentationLayer.deps.json
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\bin\Debug\net5.0-windows\3_PresentationLayer.dll
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\bin\Debug\net5.0-windows\3_PresentationLayer.pdb
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\3_PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\_3_PresentationLayer.UserControl1.resources
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\3_PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\3_PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\3_PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\3_PresentationLayer.AssemblyInfo.cs
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\3_PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\3_PresentationLayer.dll
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\refint\3_PresentationLayer.dll
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\3_PresentationLayer.pdb
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\3_PresentationLayer\obj\Debug\net5.0-windows\ref\3_PresentationLayer.dll

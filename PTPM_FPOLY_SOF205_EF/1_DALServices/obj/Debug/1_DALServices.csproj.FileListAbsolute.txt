@@ -1,0 +1,3 @@
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\1_DALServices\obj\Debug\1_DALServices.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\1_DALServices\obj\Debug\1_DALServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\1_DALServices\obj\Debug\1_DALServices.csproj.CoreCompileInputs.cache

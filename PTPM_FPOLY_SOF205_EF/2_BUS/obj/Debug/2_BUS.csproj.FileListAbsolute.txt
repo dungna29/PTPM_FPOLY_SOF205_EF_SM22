@@ -1,0 +1,3 @@
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\2_BUS\obj\Debug\2_BUS.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\2_BUS\obj\Debug\2_BUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\2_BUS\obj\Debug\2_BUS.csproj.CoreCompileInputs.cache
