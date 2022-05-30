@@ -5797,19 +5797,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\nguye\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\vpchemistry\\PTPM_FPOLY_SOF205_EF\\1.DAL\\1.DAL.csproj",
+      "projectUniqueName": "H:\\Dungna29 Fpoly\\8. Demo\\DuAnMau\\PTPM_CSHARP_SOF205\\PTPM_FPOLY_SOF205_EF_SM22\\PTPM_FPOLY_SOF205_EF\\1.DAL\\1.DAL.csproj",
       "projectName": "1.DAL",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\vpchemistry\\PTPM_FPOLY_SOF205_EF\\1.DAL\\1.DAL.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\vpchemistry\\PTPM_FPOLY_SOF205_EF\\1.DAL\\obj\\",
+      "projectPath": "H:\\Dungna29 Fpoly\\8. Demo\\DuAnMau\\PTPM_CSHARP_SOF205\\PTPM_FPOLY_SOF205_EF_SM22\\PTPM_FPOLY_SOF205_EF\\1.DAL\\1.DAL.csproj",
+      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+      "outputPath": "H:\\Dungna29 Fpoly\\8. Demo\\DuAnMau\\PTPM_CSHARP_SOF205\\PTPM_FPOLY_SOF205_EF_SM22\\PTPM_FPOLY_SOF205_EF\\1.DAL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5865,7 +5870,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

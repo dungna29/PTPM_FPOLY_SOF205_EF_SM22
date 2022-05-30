@@ -13,3 +13,18 @@ C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5
 C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.pdb
 C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\ref\2.BUS.dll
 C:\Users\Asus\source\repos\vpchemistry\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\refint\2.BUS.dll
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\bin\Debug\net5.0\2.BUS.deps.json
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\bin\Debug\net5.0\2.BUS.dll
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\bin\Debug\net5.0\2.BUS.pdb
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\bin\Debug\net5.0\1.DAL.dll
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\bin\Debug\net5.0\1.DAL.pdb
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.csproj.AssemblyReference.cache
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.AssemblyInfoInputs.cache
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.AssemblyInfo.cs
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.csproj.CoreCompileInputs.cache
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.csproj.CopyComplete
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.dll
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\refint\2.BUS.dll
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\2.BUS.pdb
+H:\Dungna29 Fpoly\8. Demo\DuAnMau\PTPM_CSHARP_SOF205\PTPM_FPOLY_SOF205_EF_SM22\PTPM_FPOLY_SOF205_EF\2.BUS\obj\Debug\net5.0\ref\2.BUS.dll
